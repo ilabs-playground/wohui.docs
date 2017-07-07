@@ -1,20 +1,23 @@
-##ABOUT
+Structure for navigation of help pages on wohui.co site
+
+## ABOUT
 - Why?
 - What?
 - Who?
 - Policies
 - Technology
 
-##HOW TO
+## HOW TO
 - Account
 - Scheme
 - Learn
 - Teach
+    - Homework
 - Write
 - Edit
 - Admin
 
-##CONTACT
+## CONTACT
 - Technical issue?
 Form which sends to support@wohui.co and thus to Asana ticket
 - Question or comment?
