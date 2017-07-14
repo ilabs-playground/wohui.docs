@@ -1,4 +1,8 @@
-我会 | MANDARIN CHINESE is a system for creating language learning journeys and supporting **learners** on them with a range of RESOURCES. 
+我会 | MANDARIN CHINESE is a system for creating language learning journeys and supporting **learners** on them with a range of RESOURCES. Its over-arching principle is 
+
+> "never do for the learner what they can do for themselves."
+
+It is called "我会" (I can) because the focus is on what the learner can do rather than on what they know.
 
 ![Principles](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/principles.png)
 
