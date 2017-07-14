@@ -20,3 +20,4 @@ Mandarin as a foreign language is a young subject.  As a result, it has so far g
 - Scaffolding
 - Flipped-Learning
 
+None of these is entirely new or unique - in many ways, we are recovering the wisdom of forgotten traditions.  What is unique is the way in which 我会 | MANDARIN CHINESE brings them together in one system.
