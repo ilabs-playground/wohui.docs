@@ -14,9 +14,10 @@ There are things the learner needs to know and things they need to be able to do
 The content for each course is scoped out and sequenced in SCHEME)
 
 ### CONTEXT
-In the real world, these words and sentence patterns do not occur in isolation but in a wide variety of contexts.  - SCENARIOS suggest some of these contexts that the learner might conceivably find themselves in. 
-- PRODUCTS suggest some of the language that the learner might conceivably need to produce (in spoken or written form) in those scenarios.  
-Models are provided for the learner as SPEAKING PRODUCT and WRITING PRODUCT.
+In the real world, these words and sentence patterns do not occur in isolation but in a wide variety of contexts.
+- SCENARIOS suggest some of these contexts that the learner might conceivably find themselves in. 
+- PRODUCTS suggest some of the language that the learner might conceivably need to produce (in spoken or written form) in those scenarios.  Models are provided for the learner as SPEAKING PRODUCT and WRITING PRODUCT.
+
 In addition, the learner may encounter the words and sentence patterns in things that they hear or read.  Again, conceivable examples are provided as LISTENING SCRIPT and READING TEXT.
 
 ### CONTACT
