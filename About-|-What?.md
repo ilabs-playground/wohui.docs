@@ -1,4 +1,4 @@
-我会 | MANDARIN CHINESE is a web based system for creating language learning journeys and supporting **learners** on them with a range of RESOURCES. 
+我会 | MANDARIN CHINESE is a system for creating language learning journeys and supporting **learners** on them with a range of RESOURCES. 
 
 ![Principles](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/principles.png)
 
