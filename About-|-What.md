@@ -1,10 +1,10 @@
-我会 | MANDARIN CHINESE is a web based system for creating language learning journeys and supporting **learners** on them. 
+我会 | MANDARIN CHINESE is a web based system for creating language learning journeys and supporting **learners** on them with a range of RESOURCES. 
 
 ![Principles](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/principles.png)
 
 ### CONTRIBUTORS
 There are 4 roles for people who support the learners on their journeys: 
-- **Administrators** manage the system and its users
+- **Administrators** manage the system and its USERS
 - **Editors** manage the CONTENT
 - **Writers** produce the texts that put the content in CONTEXT
 - **Teachers** provide personal CONTACT
