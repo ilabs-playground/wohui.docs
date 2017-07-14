@@ -20,7 +20,7 @@ For **我会 | MANDARIN CHINESE**, "Flipped Learning" is about flipping the whol
 
 ![Schools' Traditional Heirarchy](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/schoolFlipped.png)
 
-For us, "Flipped learning" today is about using technology to turn learning back the right way up again.  In many ways, we are recovering a traditional Chinese view of the teacher as a "Master."
+For us, "Flipped learning" today is about using technology to turn learning back the right way up again.  In many ways, we are recovering a traditional Chinese view of the teacher as a "Master" learner.
 
 ---
 
