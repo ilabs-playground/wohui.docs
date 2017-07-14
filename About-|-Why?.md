@@ -18,5 +18,5 @@ Mandarin as a foreign language is a young subject.  As a result, it has so far g
 **我会 | MANDARIN CHINESE** addresses each of these primarily through:
 - Snowballing
 - Scaffolding
-- Flipped
+- Flipped-Learning
 
