@@ -1,3 +1,5 @@
+**我会 | MANDARIN CHINESE** uses "Flipped Learning."
+
 "Flipped Learning" means that students acquire the information on their own BEFORE the lesson and put it to use under the teacher's direction DURING the lesson.
 
 ![Flipped](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/flipped.png)
@@ -6,13 +8,25 @@ This is in contrast to the "Traditional" model that we have become used to in sc
 
 ![Traditional](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/traditional.png)
 
+In practice, "Flipped Learning" generally means simply that students watch a pre-recorded video of a lecture about the focal topic of the next lesson before coming to class.
 
+For **我会 | MANDARIN CHINESE**, "Flipped Learning" is more than that. 
 
-"Flipped learning" today is using technology to turn learning back the right way up again.
+We have become accustomed to education as a system for cascading knowledge down from those with the most to those with the least. Learners are simultaneously encouraged to climb to validate the education system and obstructed in their climb in order to safeguard the superior position of the educators.
+
+![Schools' Traditional Heirarchy](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/schoolTraditional.png)
+
+For **我会 | MANDARIN CHINESE**, "Flipped Learning" is about flipping the whole education heirarchy on its head. The learner is placed first and given responsibility for their learning journey. They are supported by educators who have depths of experience having been on the learning journey for longer.
+
+![Schools' Traditional Heirarchy](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/schoolFlipped.png)
+
+For us, "Flipped learning" today is about using technology to turn learning back the right way up again.
 
 ---
 
 ### Origins of Flipped Learning
+
+![Origins of Flipped Learning](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/flippedLearning.png)
 
 Many credit Bergmann and Sams, two science teachers at Woodland Park High School in Colorado, with inventing flipped learning in 2007 when they started making videos for their students to work through before coming to class.
 
