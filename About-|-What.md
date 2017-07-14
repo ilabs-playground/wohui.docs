@@ -22,5 +22,7 @@ In the real world, these words and sentence patterns do not occur in isolation b
 
 In addition, the learner may encounter the words and sentence patterns in things that they hear or read.  Again, conceivable examples are provided as LISTENING SCRIPT and READING TEXT.
 
+Where possible these texts are the SOURCES of the content as well as products of it.
+
 ### CONTACT
-Language is the key tool in human interaction, so the language learning journey needs to be continually rooted in human contact.  Any journey is challenging, so the learner needs human coaching, encouragement, adjustment and practice.
+Language is the key tool in human interaction, so the language learning journey needs to be continually rooted in human contact.  Any journey is challenging, so the learner needs human coaching, encouragement, adjustment and practice.  To facilitate this, learners will normally be grouped in CLASSES which meet with each other and one or more teachers in LESSONS.
