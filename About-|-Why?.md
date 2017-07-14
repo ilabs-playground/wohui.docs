@@ -5,7 +5,7 @@ The world has changed:
 
 **我会 | MANDARIN CHINESE** is a response to this three-fold call.
 
-Mandarin as a foreign language is a young subject.  As a result, it has generally adopted methods poorly suited to the task because they were developed for a:
+Mandarin as a foreign language is a young subject.  As a result, it has so far generally adopted methods poorly suited to the task because they were developed for a:
 - Different type of language (Indo-European)
 - Different type of learner (native Chinese children)
 - Different type of platform (publication).  
