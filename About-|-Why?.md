@@ -16,7 +16,7 @@ Mandarin as a foreign language is a young subject.  As a result, it has generall
 - Digital technology enables different kinds of interaction with the language
 
 **我会 | MANDARIN CHINESE** addresses each of these primarily through:
-- Scaffolding
 - Snowballing
+- Scaffolding
 - Flipped
 
