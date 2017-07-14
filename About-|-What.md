@@ -1,5 +1,7 @@
 我会 | MANDARIN CHINESE is a web based system for creating language learning journeys and supporting **learners** on them. 
 
+![Principles](http://dulwich-hk-public.oss-cn-hongkong.aliyuncs.com/help.images/principles.png)
+
 ### CONTRIBUTORS
 There are 4 roles for people who support the learners on their journeys: 
 - **Administrators** manage the system and its users
