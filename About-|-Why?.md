@@ -1,3 +1,5 @@
+We want to build bridges between the Chinese and non-Chinese worlds by making the Mandarin Chinese language accessible and learning it rewarding.
+
 The world has changed:
 - **China**'s re-emergence means the global political and economic environment is no longer exclusively dominated by an Anglophone Western mindset.  This calls for a new way of thinking.
 - **Globalisation** has made us interdependent on people in other worlds.  This calls for a new depth of interpersonal engagement.
